@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ダレモシラナイ",
+  "base_artist": "Losstime Life",
+  "createdAt": "2026-01-12T11:54:54.759048Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダレモシラナイ",
+      "artist": "Losstime Life",
+      "has_synced": false,
+      "path": "select/pl_01_ダレモシラナイ_Losstime_Life.txt"
+    }
+  ]
+}
